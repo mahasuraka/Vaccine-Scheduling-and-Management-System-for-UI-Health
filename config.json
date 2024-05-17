@@ -1,0 +1,7 @@
+{
+    "host": "localhost",
+    "user": "root",
+    "password": "root1234",
+    "database": "project",
+	"jwtSecret": "signal-tag-playpen-alkyd-most-woodruff"
+}
